@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: c4d857e3c4689814aa900611049c04b7
+timeCreated: 1482198866
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: oie_transparent_0
+    21300002: oie_transparent_1
+    21300004: oie_transparent_2
+    21300006: oie_transparent_3
+    21300008: oie_transparent_4
+    21300010: oie_transparent_5
+    21300012: oie_transparent_6
+    21300014: oie_transparent_7
+    21300016: oie_transparent_8
+    21300018: oie_transparent_9
+    21300020: oie_transparent_10
+    21300022: oie_transparent_11
+    21300024: oie_transparent_12
+    21300026: oie_transparent_13
+    21300028: oie_transparent_14
+    21300030: oie_transparent_15
+    21300032: oie_transparent_16
+    21300034: oie_transparent_17
+    21300036: oie_transparent_18
+    21300038: oie_transparent_19
+    21300040: oie_transparent_20
+    21300042: oie_transparent_21
+    21300044: oie_transparent_22
+    21300046: oie_transparent_23
+    21300048: oie_transparent_24
+    21300050: oie_transparent_25
+    21300052: oie_transparent_26
+    21300054: oie_transparent_27
+    21300056: oie_transparent_28
+    21300058: oie_transparent_29
+    21300060: oie_transparent_30
+    21300062: oie_transparent_31
+    21300064: oie_transparent_32
+    21300066: oie_transparent_33
+    21300068: oie_transparent_34
+    21300070: oie_transparent_35
+    21300072: oie_transparent_36
+    21300074: oie_transparent_37
+    21300076: oie_transparent_38
+    21300078: oie_transparent_39
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: oie_transparent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 197
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 197
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 197
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 196
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 197
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 205
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 207
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_8
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 206
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 206
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_10
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 206
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_11
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 206
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_12
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 206
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_13
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 206
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_14
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 200
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 131
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 131
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 131
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_19
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 131
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_20
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 127
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_21
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 132
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 135
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 135
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_24
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 134
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 66
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 64
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 66
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_29
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 68
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_30
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 66
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_31
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 66
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_32
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 66
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 10
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_35
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 9
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_36
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 6
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_37
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 7
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_38
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 5
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: oie_transparent_39
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
